@@ -7,5 +7,7 @@ To install:
 
     $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
+  * Restart Xcode
+
 Based on Solarized: http://ethanschoonover.com/solarized
 
