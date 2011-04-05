@@ -1,4 +1,8 @@
 Solarized color themes for Xcode 4
 
-Solarized: http://ethanschoonover.com/solarized
+To install:
+
+  * Move or copy the .dvtcolortheme files to ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+
+Based on Solarized: http://ethanschoonover.com/solarized
 
