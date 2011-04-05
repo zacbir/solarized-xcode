@@ -13,5 +13,5 @@ Installation
 Inspiration
 -----------
 
-Solarized project by Ethan Schoonover: http://ethanschoonover.com/solarized
+[Solarized project](http://ethanschoonover.com/solarized) by Ethan Schoonover
 
